@@ -4,7 +4,8 @@
   "description": "webpack course",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -20,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/AdamabuMedina/webpack-me/issues"
   },
-  "homepage": "https://github.com/AdamabuMedina/webpack-me#readme"
+  "homepage": "https://github.com/AdamabuMedina/webpack-me#readme",
+  "devDependencies": {
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
