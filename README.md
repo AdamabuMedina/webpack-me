@@ -4,5 +4,7 @@
 
 Версии установленных библиотек и плагинов:
 
-"webpack": "^5.65.0" ("https://www.npmjs.com/package/webpack")
-"webpack-cli": "^4.9.1" ("https://www.npmjs.com/package/webpack-cli")
+1. "webpack": "^5.65.0" ("https://www.npmjs.com/package/webpack");
+2. "webpack-cli": "^4.9.1" ("https://www.npmjs.com/package/webpack-cli");
+3. "html-webpack-plugin": "^5.5.0" ("https://www.npmjs.com/package/html-webpack-plugin");
+4. "clean-webpack-plugin": "^4.0.0" ("https://www.npmjs.com/package/clean-webpack-plugin")
